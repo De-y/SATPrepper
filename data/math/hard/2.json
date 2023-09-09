@@ -1,0 +1,7 @@
+{
+    "question": "A survey of 120 students found that 60 students like math, 40 students like science, and 20 students like both math and science. How many students like math or science, but not both?",
+    "answer": "40",
+    "explanation": "We can use a Venn diagram to solve this problem. The number of students who like math or science, but not both is equal to the sum of the number of students who only like math and the number of students who only like science. This is 60 - 20 + 40 = 40 students.",
+    "difficulty": "Hard"
+  }
+  

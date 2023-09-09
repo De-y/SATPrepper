@@ -1,0 +1,7 @@
+{
+    "question": "The equation x^2 - 10x + 25 = 0 has two solutions. What is the sum of the solutions?",
+    "answer": "25",
+    "explanation": "We can solve this equation by factoring the quadratic. The two factors of x^2 - 10x + 25 are (x - 5)(x - 5). The sum of the solutions is equal to the sum of the two numbers that are being multiplied together. This is 5 + 5 = 25.",
+    "difficulty": "Hard"
+  }
+  

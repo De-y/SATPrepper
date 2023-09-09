@@ -1,0 +1,7 @@
+{
+    "question": "A store sells a shirt for $50. If the store offers a 20% discount on the shirt, what is the final price of the shirt? When answering the question, remove the $ sign. For example, if the answer is $10, type 10.",
+    "answer": "40",
+    "explanation": "To find the final price of the shirt, we first need to find the amount of the discount by multiplying the original price of the shirt by the discount. 50 * 0.20 = $10. Then, we subtract the amount of the discount from the original price to find the final price. 50 - 10 = $40.",
+    "difficulty": "Hard"
+  }
+  
